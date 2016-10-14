@@ -1,0 +1,1 @@
+create table table2(id int primary key identity(1,1),string varchar(255))
